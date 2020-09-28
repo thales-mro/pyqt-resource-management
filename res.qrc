@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file alias="jquery-jvectormap-2.0.5.css">resources/js/jquery-jvectormap-2.0.5.css</file>
+        <file alias="jquery-jvectormap-2.0.5.min.js">resources/js/jquery-jvectormap-2.0.5.min.js</file>
+        <file alias="jquery-jvectormap-world-mill.js">resources/js/jquery-jvectormap-world-mill.js</file>
+        <file alias="jquery.js">resources/js/jquery.js</file>
+        <file alias="map.html">resources/html/map.html</file>
+        <file alias="font-awesome.css">resources/css/font-awesome.min.css</file>
+        <file alias="bootsolutions.png">resources/images/bootsolutions.png</file>
+    </qresource>
+</RCC>
